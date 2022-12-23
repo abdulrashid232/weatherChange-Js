@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    /* border: 1px solid blue; */
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-top: 15rem;
+    size: 50em;
+
+}
+h3{
+    padding-right: 5rem;
+}
+
+.weatherTxt{
+    text-align: center;
+    margin-top: 5rem;
+    /* padding-bottom: 10em; */
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 20em;
+    /* border: 1px solid blue; */
+    background-color: azure;
+    
+}
+.txt{
+    text-decoration: rgb(68, 60, 60);
+    font-size: 40px;
+    font-weight: bold;
+}
+.controller{
+    font-size:20px;
+    font-style: italic;
+}
+footer{
+    font-style: italic;
+}
